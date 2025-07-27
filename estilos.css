@@ -1,0 +1,50 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: slateblue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+table {
+    border: solid 2px blue;
+    padding: 1px;
+    text-align: center;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+tr,
+th,
+td {
+    border: solid 2px blue;
+    padding: 2px;
+}
+
+thead {
+    background-color: rgb(69, 103, 206);
+    color: white;
+}
+
+td {
+    background-color: rgb(79, 203, 199);
+
+}
+
+.manrope-letra {
+    font-family: "Manrope", sans-serif;
+    font-optical-sizing: auto;
+    font: weight 400px;
+    font-style: normal;
+}
+
+.share-tech-regular {
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
